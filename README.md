@@ -3,21 +3,23 @@
 You can visit the [Homepage](https://github.com/BIRAN/SAS_Visual_Forecasting) to see and review all the content of my website.
 
 # Time series forecasting
-1. [Exponential Smoothing](https://biran.github.io/Google_Trends/esm)
+There are a lot [classical time series forecasting methods](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/), AR, MA, ARMA, ARIMA, SARIMA, SARIMAX, VAR, VARMA, VARMAX, SES and HWES, ARCH, GARCH, HMM. Some of them is new to me, so let me know if I made any mistake.
+
+Based on Google Trends' popularity, the following five methods are the most popular ones worldwide in past five years
+1. [HMM](https://biran.github.io/Google_Trends/hmm)
 2. [ARIMA](https://biran.github.io/Google_Trends/arima)
-3. [HMM](https://biran.github.io/Google_Trends/hmm)
-4. TBD
+3. [Exponential Smoothing](https://biran.github.io/Google_Trends/esm)
+4. [ARCH](https://biran.github.io/Google_Trends/arch)
+5. [VAR](https://biran.github.io/Google_Trends/var)
 
 
 <hr size="10">
 <h2>Popularity by time</h2>
 
-<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1845_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/0p8wy","geo":"","time":"today 5-y"},{"keyword":"/m/056xc6","geo":"","time":"today 5-y"},{"keyword":"/m/0642vj","geo":"","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&q=%2Fm%2F0p8wy,%2Fm%2F056xc6,%2Fm%2F0642vj","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
-
-<hr size="10">
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1845_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/0p8wy","geo":"","time":"today 5-y"},{"keyword":"/m/056xc6","geo":"","time":"today 5-y"},{"keyword":"/m/0642vj","geo":"","time":"today 5-y"},{"keyword":"/m/02w9b0","geo":"","time":"today 5-y"},{"keyword":"/m/079bt_","geo":"","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&q=%2Fm%2F0p8wy,%2Fm%2F056xc6,%2Fm%2F0642vj,%2Fm%2F02w9b0,%2Fm%2F079bt_","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
 
 <h2>Popularity by country</h2>
-<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1845_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("GEO_MAP", {"comparisonItem":[{"keyword":"/m/0p8wy","geo":"","time":"today 5-y"},{"keyword":"/m/056xc6","geo":"","time":"today 5-y"},{"keyword":"/m/0642vj","geo":"","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&q=%2Fm%2F0p8wy,%2Fm%2F056xc6,%2Fm%2F0642vj","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1845_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("GEO_MAP", {"comparisonItem":[{"keyword":"/m/0p8wy","geo":"","time":"today 5-y"},{"keyword":"/m/056xc6","geo":"","time":"today 5-y"},{"keyword":"/m/0642vj","geo":"","time":"today 5-y"},{"keyword":"/m/02w9b0","geo":"","time":"today 5-y"},{"keyword":"/m/079bt_","geo":"","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&q=%2Fm%2F0p8wy,%2Fm%2F056xc6,%2Fm%2F0642vj,%2Fm%2F02w9b0,%2Fm%2F079bt_","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
