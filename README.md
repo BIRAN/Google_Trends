@@ -6,11 +6,11 @@ You can visit the [Homepage](https://github.com/BIRAN/SAS_Visual_Forecasting) to
 There are a lot [classical time series forecasting methods](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/), AR, MA, ARMA, ARIMA, SARIMA, SARIMAX, VAR, VARMA, VARMAX, SES and HWES, ARCH, GARCH, HMM. Some of them is new to me, so let me know if I made any mistake.
 
 Based on Google Trends' popularity, the following five methods are the most popular ones worldwide in past five years
-1. [HMM](https://biran.github.io/Google_Trends/hmm)
-2. [ARIMA](https://biran.github.io/Google_Trends/arima)
-3. [Exponential Smoothing](https://biran.github.io/Google_Trends/esm)
-4. [ARCH](https://biran.github.io/Google_Trends/arch)
-5. [VAR](https://biran.github.io/Google_Trends/var)
+1. [HMM](https://biran.github.io/Google_Trends/hmm) (Hidden Markov model)
+2. [ARIMA](https://biran.github.io/Google_Trends/arima) (Autoregressive integrated moving average)
+3. [Exponential Smoothing](https://biran.github.io/Google_Trends/esm) (Exponential smoothing)
+4. [ARCH](https://biran.github.io/Google_Trends/arch) (Autoregressive conditional heteroskedasticity)
+5. [VAR](https://biran.github.io/Google_Trends/var) (Vector autoregression)
 
 
 <hr size="10">
