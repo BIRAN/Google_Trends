@@ -1,30 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to my Outline page
 
-You can use the [editor on GitHub](https://github.com/BIRAN/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can visit the [Homepage](https://github.com/BIRAN/SAS_Visual_Forecasting) to see and review all the content of my website.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Time series forecasting
+1. Exponential Smoothing
+2. ARIMA
+3. HMM
+4. TBD
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
