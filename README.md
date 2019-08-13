@@ -3,13 +3,12 @@
 You can visit the [Homepage](https://github.com/BIRAN/SAS_Visual_Forecasting) to see and review all the content of my website.
 
 # Time series forecasting
-1. Exponential Smoothing
-2. ARIMA
-3. HMM
+1. [Exponential Smoothing](https://biran.github.io/Google_Trends/esm)
+2. [ARIMA](https://biran.github.io/Google_Trends/arima)
+3. [HMM](https://biran.github.io/Google_Trends/hmm)
 4. TBD
 
 <h1>Collections</h1>
-
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1845_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/0642vj","geo":"","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&q=%2Fm%2F0642vj","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
 
