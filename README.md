@@ -3,7 +3,7 @@
 You can visit the [Homepage](https://github.com/BIRAN/SAS_Visual_Forecasting) to see and review all the content of my website.
 
 # Time series forecasting
-There are a lot [classical time series forecasting methods](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/), AR, MA, ARMA, ARIMA, SARIMA, SARIMAX, VAR, VARMA, VARMAX, SES and HWES, ARCH, GARCH, HMM. Some of them are new to me, so please let me know if I made any mistakes.
+There are lots of [classical time series forecasting methods](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/), AR, MA, ARMA, ARIMA, SARIMA, SARIMAX, VAR, VARMA, VARMAX, SES and HWES, ARCH, GARCH, HMM. Some of them are new to me, so please let me know if I made any mistakes.
 
 Based on Google Trends' popularity, the following five methods are the most popular ones worldwide in past five years
 1. [HMM](https://biran.github.io/Overview-of-time-series-forecasting/hmm) (Hidden Markov model)
