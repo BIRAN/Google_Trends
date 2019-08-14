@@ -12,7 +12,7 @@ Based on Google Trends' popularity, the following five methods are the most popu
 4. [ARCH](https://biran.github.io/Overview-of-time-series-forecasting/arch/) (Autoregressive conditional heteroskedasticity)
 5. [VAR](https://biran.github.io/Overview-of-time-series-forecasting/var) (Vector autoregression)
 
-<h2><a href="https://biran.github.io/Overview-of-time-series-forecasting/slides">Timeline</a></h2>
+<h2><a href="https://biran.github.io/Overview-of-time-series-forecasting/slides">Timeline</a></h2>(click here for more details)
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1EUQ04Yi1w2Cg32n29z86N_TgvTwfFReS_i-6PXqsfFM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
